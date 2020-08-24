@@ -1,33 +1,38 @@
-#unique-readme 
-(manual version)
+# {answers.title}
 
-command-line that accept user input
-prompts user for infor about my application repo.
+## Description
 
-Quality readme generated
-    # title of propject
+{answers.description}
 
-    # description
+## Table of contents
 
-    # Table of contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
 
-    # installation
+## Installation
 
-    # usage
+{answers.installation}
 
-    # license
+## Usage
 
-    # contributing
+{answers.usage}
 
-    # tests
-    
-    # questions
+## License
 
-Badge is added for the license chosen.
+{answers.license}
 
-enters Github profile
-    -added to the questions section with github link
+## Contributing
 
-email address entered
-    adds to questions and how to reach me
+{answers.contributing}
 
+## Tests
+
+{answers.tests}
+
+## Questions
+
+Have questions? Feel free to contact me on [GitHub](http://github.com/{answers.githubUsername}). Or, email me at {answers.email}.
