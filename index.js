@@ -25,6 +25,32 @@ const questions = [
     message:"How does this user use your application?",
     name:"usage"
   },
+  {
+    type: "checkbox",
+    message:"What kind of licensing does your application have?",
+    name:"license",
+    choices:["MIT", "APACHE 2.0", "GPL 3.0" , "BSD", "NONE"]
+  },
+  {
+    type: "input",
+    message:"Would you like your users to contribute to your application?",
+    name:"contributing"
+  },
+  {
+    type: "input",
+    message:"How do your users test your application?",
+    name: "tests"
+  },
+  {
+    type: "input",
+    message:"What is your GitHub username?",
+    name: "githubUsername"
+  },
+  {
+    type: "input",
+    message:" What is your email address?",
+    name: "email"
+  }
 
 ];
 
