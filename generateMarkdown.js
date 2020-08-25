@@ -17,8 +17,7 @@ ${data.description}
 
 ## Installation
 
-${data.installation}
-
+${data.install}
 
 ## Usage
 
@@ -26,7 +25,7 @@ ${data.usage}
 
 ## License
 
-![github license(https://img.shields.io/badge/license-${data.license}-blue.svg)
+![github license](https://img.shields.io/badge/license-${data.license}-blue.svg)
 
 ## Contributing
 
